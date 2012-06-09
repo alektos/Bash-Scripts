@@ -1,1 +1,1 @@
-=== This is just a collection of shell scripts in various languages ===
+===This is just a collection of shell scripts in various languages===
