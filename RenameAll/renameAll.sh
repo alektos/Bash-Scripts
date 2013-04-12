@@ -10,8 +10,7 @@ ren="mv"
 function usage {
     echo "Uso: "$soft_name" <dir> <ext> <new_name>";
     echo "Programma che rinomina tutti i files con estensione <ext>"
-    echo "all'interno di una directory <dir>";
-    echo "";
+    echo "all'interno di una directory <dir>\n";
 }
 
 function renameAll {
